@@ -18,15 +18,5 @@ services:
     ports:
       - "8020:3000"
 
-  base:
-    build: 
-      context: ../base
-      dockerfile: Dockerfile     
-    ports:
-      - "8010:4000"
-
-      
-
-
 volumes:
   mongodb_data_container:
