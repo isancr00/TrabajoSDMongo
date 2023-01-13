@@ -1,2 +1,3 @@
 This is a very simple example of how can MongoDB be used. 
-We are going to storage people's information: name, surname, age, gender and occupation. This is going to be stored into the database with a very simple web app made into node with JavaScript. 
+We are going to storage people's information: name, surname, age, gender and occupation. 
+The user selects an option to introduce or to watch the people introduced.
